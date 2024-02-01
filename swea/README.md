@@ -18,3 +18,4 @@
 | Date | Difficulty | Problem # | Language | Memory | Time |
 | --- | --- | --- | --- | --- | --- |
 | 2024-02-01 | D2 | [1954](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq) | Python | 58,784 kb | 166 ms |
+| 2024-02-01 | D2 | [1966](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PrmyKAWEDFAUq) | Python | 60,668 kb | 189 ms |
