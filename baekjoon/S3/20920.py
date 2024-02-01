@@ -2,7 +2,7 @@
 
 import sys
 import os
-# from pprint import pprint as print
+from pprint import pprint as print
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 sys.stdin = open(f"{dir_path}/input.txt", "r")
@@ -11,27 +11,19 @@ input = sys.stdin.readline
 
 N, M = map(int, input().split())
 
-word_list = []
+word_list = {}
 for _ in range(N):
     word = input().strip()
     if len(word) >= M:
-        word_list.append(word)
+        if word in word_list:
+            word_list[word] += 1
+        else:
+            word_list[word] = 1
 
-word_list.sort()
-word_dicts = []
-for word in word_list:
-    word_dict = {}
-    word_dict['word'] = word
-    word_dict['length'] = len(word)
-    word_dict['count'] = word_list.count(word)
-    word_dicts.append(word_dict)
-
-word_dicts = sorted(word_dicts, key = lambda x: x['length'], reverse=True)
-word_dicts = sorted(word_dicts, key = lambda x: x['count'], reverse=True)
-
-word_list = []
-for word in word_dicts:
-    if word['word'] not in word_list:
-        word_list.append(word['word'])
+# 정렬 기준
+# 1. 단어 빈도수
+# 2. 해당 단어의 길이
+# 3. 알파벳 사전 순        
+word_list = sorted(word_list, key=lambda x: (-(word_list[x]), -len(x), x))
 
 [print(i) for i in word_list]
