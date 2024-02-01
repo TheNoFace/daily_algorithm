@@ -9,4 +9,5 @@
 ## 2024 February
 | Date | Difficulty | Problem # | Language | Memory | Time |
 | --- | --- | --- | --- | --- | --- |
-| 2024-02-01 | S3 | [20920](https://www.acmicpc.net/status?from_mine=1&problem_id=20920&user_id=fprhqkrtk303) | Python | 52,572KB | 292ms |
+| 2024-02-01 | S3 | [20920](https://www.acmicpc.net/status?user_id=fprhqkrtk303&problem_id=20920) | Python | 52,572KB | 292ms |
+| 2024-02-01 | S3 | [11399](https://www.acmicpc.net/status?user_id=fprhqkrtk303&problem_id=11399) | Python | 31,120KB | 40ms |
