@@ -8,19 +8,18 @@ sys.stdin = open(f'{dir_path}/input.txt', 'r')
 input = sys.stdin.readline
 
 def series_counter(N):
-    print(N, end=' ')
+    # print(N, end=' ')
     if N < 100:
         return N
+    elif N == 1000:
+        return 144
     else:
         result = 0
         num_length = 3
         for i in range(111, N+1):
-            if i == 1000:
-                result -= 1
             num = []
             for _ in range(num_length):
-                modulo = i % 10
-                num.append(modulo)
+                num.append(i % 10)
                 i = i // 10
             # print(*num[::-1], num)
 
@@ -31,7 +30,4 @@ def series_counter(N):
 
         return 99 + result
 
-T = int(input())
-for t in range(1, 1+T):
-    print(series_counter(int(input())))
-
+print(series_counter(int(input())))
