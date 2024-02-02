@@ -21,3 +21,4 @@
 | 2024-02-01 | D2 | [1966](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PrmyKAWEDFAUq) | Python | 60,668 kb | 189 ms |
 | 2024-02-01 | D2 | [16311](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYYqJ3jqE0EDFAVw&probBoxId=AY1iV5DKi8IDFAWX) | Python | 61,476 kb | 161 ms |
 | 2024-02-01 | D2 | [16312](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYYqKXCKE6gDFAVw&probBoxId=AY1iV5DKi8IDFAWX) | Python | 58,248 kb | 150 ms |
+| 2024-02-02 | D4 | [1210](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh) | Python | 62,768 kb | 211 ms |
