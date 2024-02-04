@@ -12,3 +12,5 @@
 | 2024-02-01 | S3 | [20920](https://www.acmicpc.net/status?user_id=fprhqkrtk303&problem_id=20920) | Python | 52,572KB | 292ms |
 | 2024-02-01 | S3 | [11399](https://www.acmicpc.net/status?user_id=fprhqkrtk303&problem_id=11399) | Python | 31,120KB | 40ms |
 | 2024-02-01 | S4 | [1065](https://www.acmicpc.net/status?problem_id=1065&user_id=fprhqkrtk303&language_id=1003) | Python | - | Wrong |
+| 2024-02-02 | S4 | [1065](https://www.acmicpc.net/status?problem_id=1065&user_id=fprhqkrtk303&language_id=1003) | Python | 31,120KB | 44ms |
+| 2024-02-03 | S4 | [3986](https://www.acmicpc.net/status?from_mine=1&problem_id=3986&user_id=fprhqkrtk303) | Python | - | Wrong |
