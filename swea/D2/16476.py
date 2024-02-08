@@ -12,8 +12,9 @@ parenthesis = ['(', ')', '{', '}']
 T = int(input())
 for t in range(1, T+1):
     test = input().rstrip()
-
+    result = 1
     stack = []
+
     # 문자열 검사
     for string in test:
         # 괄호 유무 검사
@@ -25,16 +26,17 @@ for t in range(1, T+1):
                     stack.pop()
                 elif stack[-1] == '(' and string == ')':
                     stack.pop()
+                # 닫는 괄호가 먼저 들어왔을 때
+                else:
+                    result = 0
+                    break
             # 빈 스택이거나 여는 괄호라면 스택에 추가
-            elif not stack or (string == '(' or string == '{'):
-                    stack.append(string)
-            else:  # wtf?
-                print(f'#{t} 0')
-                break
+            else:
+                stack.append(string)
     # 문자열 검사 종료 후 스택 확인
     else:
         # 비어있지 않으면 잘못된 괄호
-        if not stack:
-            print(f'#{t} 1')
-        else:
-            print(f'#{t} 0')
+        if stack:
+            result = 0
+
+    print(f'#{t} {result}')
