@@ -1,7 +1,7 @@
 # SWEA
 ## 2024 January
-| Date | Difficulty | Problem # | Language | Memory | Time |
-| --- | --- | --- | --- | --- | --- |
+| Date | Difficulty | Problem # | Language | Memory | Time | Status |
+| --- | --- | --- | --- | --- | --- | --- |
 | 2024-01-27 | D2 | [1974](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq) | Python | 48,664 kb | 114 ms |
 | 2024-01-29 | D3 | [1206](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh) | Python | 54,064 kb | 144 ms | 
 | 2024-01-30 | D1 | [16117](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYYLWlEqWq4DFAVw&probBoxId=AYzyVay6v94DFAXz) | Python | 58,244 kb | 160 ms |
@@ -15,8 +15,8 @@
 | 2024-01-31 | D1 | [16266](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYYk_zdayGUDFAVw&probBoxId=AY1d6dFajWsDFAWX) | Python | 63,328 kb | 250 ms |
 
 ## 2024 Fabruary
-| Date | Difficulty | Problem # | Language | Memory | Time |
-| --- | --- | --- | --- | --- | --- |
+| Date | Difficulty | Problem # | Language | Memory | Time | Status |
+| --- | --- | --- | --- | --- | --- | --- |
 | 2024-02-01 | D2 | [1954](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq) | Python | 58,784 kb | 166 ms |
 | 2024-02-01 | D2 | [1966](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PrmyKAWEDFAUq) | Python | 60,668 kb | 189 ms |
 | 2024-02-01 | D2 | [16311](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYYqJ3jqE0EDFAVw&probBoxId=AY1iV5DKi8IDFAWX) | Python | 61,476 kb | 161 ms |
@@ -39,7 +39,7 @@
 | 2024-02-06 | D2 | [16348](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYYvXypKDrkDFAVw&probBoxId=AY1768RaC0oDFAWX) | Python | 61,468 kb | 177 ms |
 | 2024-02-06 | D3 | [1215](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14QpAaAAwCFAYi) | Python | 58,248 kb | 159 ms |
 | 2024-02-06 | D2 | [1989](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PyTLqAf4DFAUq) | Python | 45,080 kb | 106 ms |
-| 2024-02-06 | D2 | [16476](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYZJQ6Q6RKADFAVw&probBoxId=AY2BmSDqHpsDFAXh) | Python | - | Wrong |
+| 2024-02-06 | D2 | [16476](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYZJQ6Q6RKADFAVw&probBoxId=AY2BmSDqHpsDFAXh) | Python | - | - | Wrong |
 | 2024-02-06 | D2 | [16478](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYZJRQT6RQ0DFAVw&probBoxId=AY2BmSDqHpsDFAXh) | Python | 46,628 kb | 117 ms |
 | 2024-02-06 | D2 | [1974](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYZJRQT6RQ0DFAVw&probBoxId=AY2BmSDqHpsDFAXh) | Python | 58,532 kb | 155 ms |
 | 2024-02-06 | D3 | [1234](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14_DEKAJcCFAYD) | Python | 43,776 kb | 111 ms |
