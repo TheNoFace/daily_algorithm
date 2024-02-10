@@ -50,3 +50,4 @@
 | 2024-02-07 | D4 | [3143](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_65wkqsb4DFAWS) | Python | 45,060 kb | 117 ms |
 | 2024-02-09 | D3 | [16505](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYZOVq9KTH8DFAVw&probBoxId=AY2GP4uqGrgDFAXh) | Python | 63,820 kb | 211 ms |
 | 2024-02-09 | D4 | [5432](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm) | Python | 60,708 kb | 226 ms |
+| 2024-02-10 | D2 | [1859](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc) | Python | 248,208 kb | 1,152 ms | Wrong |
