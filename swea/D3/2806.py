@@ -12,56 +12,51 @@ T = int(input())
 for t in range(1, T+1):
     N = int(input())
     chess = [[0] * N for _ in range(N)]
-    queens = 0
     count = 0
-
-    # 체스판 그리드를 만들어 퀸은 8, 퀸의 영향권은 1로 표시
-    def queen_territory(grid, r, c):
-        # 상 하 좌 우 우상 우하 좌하 좌상
-        dr = [-1, 1, 0, 0, -1, 1, 1, -1]
-        dc = [0, 0, -1, 1, 1, 1, -1, -1]
-        r_init, c_init = r, c
-        grid[r][c] = 8
-
-        for d in range(8):
-            r, c = r_init, c_init
-            for i in range(1, N):
-                nr = r + dr[d]
-                nc = c + dc[d]
-                if (0 <= nr < N and 0 <= nc < N) and grid[nr][nc] == 0:
-                    grid[nr][nc] = 1
-                    r, c = nr, nc
-
-
-    def queen_place(chess, r, c):
-        # 종료 조건
-        if r == N:
-            pass
-
-        queen_territory(chess, r, c)
+    
+    def place_queen(r, n):
+        """
+           r: 놓을 열 인덱스
+           n: 체스판 크기(N)
+        """
+        global count
         is_placable = True
 
-        for column in range(N):
-            # 1) 같은 c에 1이 존재하는지
-            if r - 1 >= 0 and chess[r-1][column]:
-                is_placable = False
-                break
+        # 종료 조건: 마지막 열까지 퀸을 배치했을 때
+        if r == N:
+            count += 1
+            return
 
-            # 2) 대각선 검사
-            # 2-1) 대각선 왼쪽 위에 1이 있는지
-            if r - 1 >= 0 and c - 1 >= 0 and chess[r-1][c-1] == 1:
-                is_placable = False
-                break
+        else:
+            """
+                1) 같은 열의 윗 행에 퀸이 없다면
+                2) 대각선 왼쪽/오른쪽 위에 퀸이 없다면
+                3) 퀸 배치 
+            """
+            for c in range(n):
+                # 1) 같은 열의 윗 행 검사
+                # 같은 열에 퀸이 배치되었다면, 0 ~ r-1에 위치
+                for i in range(r):
+                    if chess[i][c] == 1:
+                        is_placable = False
+                        break
 
-            # 2-2) 대각선 오른쪽 위에 1이 있는지
-            if r - 1 >= 0 and c + 1 < N and chess[r-1][c+1] == 1:
-                is_placable = False
-                break
+                # 2) 대각선 좌우 검사
+                for d in [1, -1]:  # 좌, 우 순서로 검사
+                    if is_placable:
+                        for i in range(1, r+1):
+                            if r - i >= 0 and c - (i*d) >= 0 and chess[r-i][c-(i*d)] == 1:
+                                is_placable = False
+                                break
+                    else:
+                        break
+                
+                # 3) break가 걸리지 않았다면, 퀸 배치
+                if is_placable:
+                    chess[r][c] = 1
+                    place_queen(r+1, n)
+                    # 이후 행에 대한 재귀가 끝났다면, 현재 퀸이 놓인 위치 초기화
+                    chess[r][c] = 0
 
-            # 1~3) 통과하면 퀸 배치 후 다음 row로 이동
-            if is_placable:
-                queen_territory(chess, r, column)
-                queen_place(chess, r+1, 0)
-
-                # 검사 종료 후 다음 c 검사 위해 체스판 초기화?
-                chess = [[0] * N for _ in range(N)]
+    place_queen(0, N)
+    print(f'#{t} {count}')
