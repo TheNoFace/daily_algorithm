@@ -20,13 +20,11 @@ for t in range(1, T+1):
            n: 체스판 크기(N)
         """
         global count
-        is_placable = True
 
         # 종료 조건: 마지막 열까지 퀸을 배치했을 때
         if r == N:
             count += 1
             return
-
         else:
             """
                 1) 같은 열의 윗 행에 퀸이 없다면
@@ -34,6 +32,11 @@ for t in range(1, T+1):
                 3) 퀸 배치 
             """
             for c in range(n):
+                # is_placable 변수를 함수 초기에 초기화하면 현재 행에서 배치 불가능한 열이 있을 경우
+                # 이후 그 행의 나머지 열의 배치 가부를 검사하지 않고 break
+                # 따라서 직전 열의 검사가 break 됐을 때 is_placable 변수 초기화 필요
+                is_placable = True
+                
                 # 1) 같은 열의 윗 행 검사
                 # 같은 열에 퀸이 배치되었다면, 0 ~ r-1에 위치
                 for i in range(r):
@@ -42,20 +45,22 @@ for t in range(1, T+1):
                         break
 
                 # 2) 대각선 좌우 검사
-                for d in [1, -1]:  # 좌, 우 순서로 검사
-                    if is_placable:
-                        for i in range(1, r+1):
-                            if r - i >= 0 and c - (i*d) >= 0 and chess[r-i][c-(i*d)] == 1:
-                                is_placable = False
-                                break
-                    else:
-                        break
+                if is_placable:
+                    for i in range(1, r+1):  # 대각선 좌
+                        if r-i >= 0 and c-i >= 0 and chess[r-i][c-i] == 1:
+                            is_placable = False
+                            break
+                if is_placable:
+                    for i in range(1, r+1):  # 대각선 우
+                        if r-i >= 0 and c+i < N and chess[r-i][c+i] == 1:
+                            is_placable = False
+                            break
                 
                 # 3) break가 걸리지 않았다면, 퀸 배치
                 if is_placable:
                     chess[r][c] = 1
                     place_queen(r+1, n)
-                    # 이후 행에 대한 재귀가 끝났다면, 현재 퀸이 놓인 위치 초기화
+                    # 이후 현재 열에 대한 재귀가 끝났다면, 현재 퀸이 놓인 위치 초기화
                     chess[r][c] = 0
 
     place_queen(0, N)
