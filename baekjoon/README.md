@@ -22,4 +22,5 @@
 | 2024-02-14 | S4 | [28278](https://www.acmicpc.net/status?problem_id=28278&user_id=fprhqkrtk303) | Python | 71,112KB | 900ms |
 | 2024-02-15 | S3 | [12789](https://www.acmicpc.net/status?problem_id=12789&user_id=fprhqkrtk303) | Python | - | - | Wrong |
 | 2024-02-16 | S4 | [18258](https://www.acmicpc.net/status?problem_id=18258&user_id=fprhqkrtk303) | Python | 174,820KB | 2540ms |
-| 2024-02-19 | S3 | [12789](https://www.acmicpc.net/status?problem_id=12789&user_id=fprhqkrtk303) | Python | 31,120KB | 44ms | |
+| 2024-02-19 | S3 | [12789](https://www.acmicpc.net/status?problem_id=12789&user_id=fprhqkrtk303) | Python | 31,120KB | 44ms |
+| 2024-02-20 | S4 | [5568](https://www.acmicpc.net/status?problem_id=5568&user_id=fprhqkrtk303) | Python | 31,120 | 232ms | [Referenced](https://velog.io/@e_juhee/python-%EB%B0%B1%EC%A4%80-5568-%EC%B9%B4%EB%93%9C-%EB%86%93%EA%B8%B0-%EC%9E%AC%EA%B7%80-%ED%95%A8%EC%88%98-vs-itertools-%EB%B9%84%EA%B5%90) |
