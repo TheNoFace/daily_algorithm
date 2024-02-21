@@ -11,8 +11,6 @@ T = 10
 for t in range(1, T+1):
     N = int(input())
     tree = [0] * (N+1)
-    lc = [0] * (N+1)
-    rc = [0] * (N+1)
     parent = [0] * (N+1)
 
     for _ in range(N):
@@ -21,24 +19,22 @@ for t in range(1, T+1):
             tree[int(inputs[0])] = int(inputs[1])
         else:
             tree[int(inputs[0])] = inputs[1]
-            lc[int(inputs[0])] = int(inputs[2])
-            rc[int(inputs[0])] = int(inputs[3])
             parent[int(inputs[2])] = int(inputs[0])
             parent[int(inputs[3])] = int(inputs[0])
 
     p = parent[N-1]
     while p >= 1:
         left, right = tree[N-1], tree[N]
-        result = eval(f'{left}{tree[p]}{right}')
-        # operator = tree[p]
-        # if operator == '-':
-        #     result = left - right
-        # elif operator == '+':
-        #     result = left + right
-        # elif operator == '*':
-        #     result = left * right
-        # elif operator == '/':
-        #     result = left / right
+        # result = eval(f'{left}{tree[p]}{right}')
+        operator = tree[p]
+        if operator == '-':
+            result = left - right
+        elif operator == '+':
+            result = left + right
+        elif operator == '*':
+            result = left * right
+        elif operator == '/':
+            result = left / right
         tree[p] = result
 
         N -= 2
