@@ -79,3 +79,4 @@
 | 2024-02-22 | D3 | [16786](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYaQ5ZVKXP8DFAVQ&probBoxId=AY3OawRaBR4DFAUZ) | Python | 43,760 kb | 121 ms |
 | 2024-02-22 | D3 | [16788](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYaQ5vFKXSEDFAVQ&probBoxId=AY3OawRaBR4DFAUZ) | Python | 43,536 kb | 116 ms | [Referenced](https://www.log2base2.com/number-system/float-to-binary-conversion.html) |
 | 2024-02-22 | D3 | [1240](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15FZuqAL4CFAYD) | Python | 47,152 kb | 121 ms |
+| 2024-02-22 | D2 | [12712](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AXuARWAqDkQDFARa&categoryId=AXuARWAqDkQDFARa) | Python | 60,044 kb | 154 ms |
