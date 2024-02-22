@@ -82,3 +82,4 @@
 | 2024-02-22 | D2 | [12712](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AXuARWAqDkQDFARa&categoryId=AXuARWAqDkQDFARa) | Python | 60,044 kb | 154 ms |
 | 2024-02-22 | D2 | [10760](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AXSHJueab1oDFAQT&categoryId=AXSHJueab1oDFAQT&categoryType=CODE) | Python | 60,392 kb | 210 ms |
 | 2024-02-22 | D2 | [1959](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpoFaAS4DFAUq) | Python | 43,780 kb | 119 ms |
+| 2024-02-22 | D2 | [1288](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18_yw6I9MCFAZN) | Python | 54,968 kb | 141 ms |
