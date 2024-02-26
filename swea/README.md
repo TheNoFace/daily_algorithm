@@ -85,3 +85,4 @@
 | 2024-02-22 | D2 | [1288](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18_yw6I9MCFAZN) | Python | 54,968 kb | 141 ms |
 | 2024-02-22 | D3 | [5356](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO) | Python | 61,976 kb | 191 ms |
 | 2024-02-22 | D3 | [4789](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT) | Python | 61,704 kb | 180 ms |
+| 2024-02-26 | D3 | [3499](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW) | Python | 60,052 kb | 157 ms |
