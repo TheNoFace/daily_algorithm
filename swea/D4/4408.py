@@ -4,52 +4,36 @@ import sys
 import os
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
-sys.stdin = open(f"{dir_path}/input.txt", "r")
+sys.stdin = open(f"{dir_path}/4408.txt", "r")
 # input = sys.stdin.readline
 
 T = int(input())
 for t in range(1, T + 1):
     N = int(input())
-    students = [list(map(int, input().split())) for _ in range(N)]
-    hotel = [0] * 401
-    count = 1  # 모든 경로가 겹치지 않으면 최소 단위 시간은 1
 
-    for idx, student in enumerate(students):
-        hotel[student[0]] = hotel[student[1]] = idx + 1
+    # 1) 복도를 나타내는 배열 생성
+    # 2) 학생의 방 번호를 복도 배열의 인덱스로 변환
+    # 3) 복도배열[시작번호:종료번호+1] += 1
+    # 4) 반복 후 배열의 최대값을 구하면 최소 단위 시간
 
-    stack = []
-    # for i in hotel:
-    #     if i != 0:
-    #         if not stack:
-    #             stack.append(i)
-    #         else:
-    #             if stack[-1] != i and i not in stack:
-    #                 stack.append(i)
-    #                 count += 1
-    #             elif stack[-1] == i:
-    #                 stack.pop()
+    corridor = [0] * 200
+    max_move = 0
 
-    sorted_hotel = []
-    for i in hotel:
-        if i != 0:
-            sorted_hotel.append(i)
+    for i in range(N):
+        current, target = map(int, input().split())
 
-    single_time = False
-    for i in range(N * 2 - 1):
-        if not stack:
-            stack.append(sorted_hotel[i])
-        else:
-            # TODO: 스택 top가 홀, 다음이 짝이면 +1?
-            if (
-                stack[-1] != sorted_hotel[i]
-                and sorted_hotel[i] not in stack
-                and not single_time
-            ):
-                stack.append(sorted_hotel[i])
-                count += 1
-                if sorted_hotel[i] == sorted_hotel[i+1]:
-                    single_time = True
-            elif stack[-1] == sorted_hotel[i]:
-                stack.pop()
+        # 출발 번호가 도착 번호보다 큰 경우 range가 제대로 작동하지 않기 때문에
+        # 오름차순으로 정렬
+        if current > target:
+            current, target = target, current
 
-    print(f"#{t} {count}")
+        current = current // 2 if current % 2 == 1 else current // 2 - 1
+        target = target // 2 if target % 2 == 1 else target // 2 - 1
+
+        for i in range(current, target+1):
+            corridor[i] += 1
+
+            if max_move < corridor[i]:
+                max_move = corridor[i]
+
+    print(f"#{t} {max_move}")
