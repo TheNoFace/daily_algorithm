@@ -14,6 +14,28 @@ for t in range(1, T+1):
     max_move = 0
     loc = []
 
+    # BFS
+    def bfs(sr, sc, count):
+        global max_move
+        global loc
+        q = []
+        q.append((sr, sc, count))
+
+        while q:
+            r, c, count = q.pop()
+            for d in [(-1 ,0), (1, 0), (0, -1), (0, 1)]:
+                nr, nc = r + d[0], c + d[1]
+                if 0 <= nr < N and 0 <= nc < N and grid[r][c] + 1 == grid[nr][nc]:
+                    count += 1
+                    q.append((nr, nc, count))
+                else:
+                    if max_move <= count:
+                        if max_move < count:
+                            loc.clear()
+                        max_move = count
+                        loc.append(grid[sr][sc])
+        return
+
     # DFS
     def dfs(sr, sc, count):
         global max_move
@@ -39,7 +61,8 @@ for t in range(1, T+1):
 
     for r in range(N):
         for c in range(N):
-            stack = []
-            dfs(r, c, 1)
+            # stack = []
+            # dfs(r, c, 1)
+            bfs(r, c, 1)
 
     print(f'#{t} {min(loc)} {max_move}')
