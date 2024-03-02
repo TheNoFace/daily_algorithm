@@ -95,7 +95,7 @@
 | 2024-02-28 | D3 | [16904](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYclhsNaNf0DFAVa&probBoxId=AY3tOLq6DUIDFAUZ) | Python | 45,320 kb | 117 ms |
 | 2024-02-28 | D3 | [4408](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8) | Python | 55,056 kb | 149 ms |
 | 2024-02-28 | D3 | [1289](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN) | Python | 46,440 kb | 114 ms |
-| 2024-02-28 | D3 | [16905](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYcliIFqNg8DFAVa&probBoxId=AY3tOLq6DUIDFAUZ) | 45,036 kb | 111 ms |
+| 2024-02-28 | D3 | [16905](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYcliIFqNg8DFAVa&probBoxId=AY3tOLq6DUIDFAUZ) | Python | 45,036 kb | 111 ms |
 | 2024-02-28 | D3 | [2805](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB) | Python | 61,184 kb | 200 ms |
 | 2024-02-29 | D3 | [1860](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LsaaqDzYDFAXc) | Python | 62,544 kb | 692 ms |
 | 2024-02-29 | D3 | [1220](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD) | Python | 60,220 kb | 219 ms |
@@ -104,3 +104,4 @@
 | 2024-03-01 | D3 | [2817](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7IzvG6EksDFAXB) | Python | 59,792 kb | 2,009 ms |
 | 2024-03-01 | D4 | [1861](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc) | Python | 187,552 kb | 2,465 ms | DFS |
 | 2024-03-01 | D4 | [1861](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc) | Python | 61,392 kb | 1,696 ms | BFS |
+| 2024-03-02 | Test | [4012](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH) | Python | 60,264 kb | 201 ms | Wrong |
