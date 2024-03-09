@@ -33,3 +33,4 @@
 | 2024-03-06 | G5 | [5639](https://www.acmicpc.net/status?problem_id=5639&user_id=fprhqkrtk303) | Python | 129,420KB | 884ms | PyPy |
 | 2024-03-07 | S2 | [3085](https://www.acmicpc.net/status?problem_id=3085&user_id=fprhqkrtk303) | Python | - | - | Wrong |
 | 2024-03-08 | S1 | [1074](https://www.acmicpc.net/problem/1074) | Python | - | - | Timeout |
+| 2024-03-09 | S1 | [1074](https://www.acmicpc.net/problem/1074) | Python | 31,120KB | 40ms | |
