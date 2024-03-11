@@ -21,7 +21,7 @@
 | 2024-02-14 | G2 | [1918](https://www.acmicpc.net/status?problem_id=1918&user_id=fprhqkrtk303) | Python | 31,120KB | 40ms |
 | 2024-02-14 | S4 | [28278](https://www.acmicpc.net/status?problem_id=28278&user_id=fprhqkrtk303) | Python | 71,112KB | 900ms |
 | 2024-02-15 | S3 | [12789](https://www.acmicpc.net/status?problem_id=12789&user_id=fprhqkrtk303) | Python | - | - | Wrong |
-| 2024-02-16 | S4 | [18258](https://www.acmicpc.net/status?problem_id=18258&user_id=fprhqkrtk303) | Python | 174,820KB | 2540ms |
+| 2024-02-16 | S4 | [18258](https://www.acmicpc.net/status?problem_id=18258&user_id=fprhqkrtk303) | Python | 174,820KB | 2,540ms |
 | 2024-02-19 | S3 | [12789](https://www.acmicpc.net/status?problem_id=12789&user_id=fprhqkrtk303) | Python | 31,120KB | 44ms |
 | 2024-02-20 | S4 | [5568](https://www.acmicpc.net/status?problem_id=5568&user_id=fprhqkrtk303) | Python | 31,120KB | 232ms | [Referenced](https://velog.io/@e_juhee/python-%EB%B0%B1%EC%A4%80-5568-%EC%B9%B4%EB%93%9C-%EB%86%93%EA%B8%B0-%EC%9E%AC%EA%B7%80-%ED%95%A8%EC%88%98-vs-itertools-%EB%B9%84%EA%B5%90) |
 | 2024-02-21 | S4 | [10610](https://www.acmicpc.net/status?problem_id=10610&user_id=fprhqkrtk303) | Python | 33,036KB | 248ms | [Referenced](https://www.acmicpc.net/source/73771512) |
@@ -34,4 +34,5 @@
 | 2024-03-07 | S2 | [3085](https://www.acmicpc.net/status?problem_id=3085&user_id=fprhqkrtk303) | Python | - | - | Wrong |
 | 2024-03-08 | S1 | [1074](https://www.acmicpc.net/problem/1074) | Python | - | - | Timeout |
 | 2024-03-09 | S1 | [1074](https://www.acmicpc.net/problem/1074) | Python | 31,120KB | 40ms | |
-| 2024-03-09 | G5 | [7576](https://www.acmicpc.net/problem/7576) | Python | 146,712KB | 1276ms | |
+| 2024-03-09 | G5 | [7576](https://www.acmicpc.net/problem/7576) | Python | 146,712KB | 1,276ms | |
+| 2024-03-11 | G5 | [7569](https://www.acmicpc.net/problem/7569) | Python | 52,640KB | 2,768ms |
