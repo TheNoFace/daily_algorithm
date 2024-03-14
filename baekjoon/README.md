@@ -37,3 +37,4 @@
 | 2024-03-09 | G5 | [7576](https://www.acmicpc.net/problem/7576) | Python | 146,712KB | 1,276ms | |
 | 2024-03-11 | G5 | [7569](https://www.acmicpc.net/problem/7569) | Python | 52,640KB | 2,768ms |
 | 2024-03-11 | S2 | [24479](https://www.acmicpc.net/problem/24479) | Python | - | - | Timeout |
+| 2024-03-14 | S2 | [24479](https://www.acmicpc.net/problem/24479) | Python | 71,180KB | 648ms |

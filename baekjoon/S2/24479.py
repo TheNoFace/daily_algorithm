@@ -2,6 +2,7 @@
 # https://www.acmicpc.net/board/view/129242
 
 import sys
+sys.setrecursionlimit(10 ** 6)
 input = sys.stdin.readline
 
 N, M, R = map(int, input().split())
@@ -12,26 +13,24 @@ for _ in range(M):
     graph[i].append(j)
     graph[j].append(i)
 
-def dfs(v):
-    stack = []
-    visited = [0] * (N + 1)
-    count = 1
-    visited[v] = count
-    
-    while True:
-        for adj in sorted(graph[v]):
-            if visited[adj] == 0:
-                stack.append(v)
-                stack.append(adj)
-                count += 1
-                visited[adj] = count
-                v = adj
-                break
-        else:
-            if stack:
-                v = stack.pop()
-            else:
-                return visited
+for i in range(len(graph)):
+    graph[i].sort()
 
-for i in dfs(R)[1:]:
+def dfs_recursive(v, visited, count):
+    if not visited[v]:
+        visited[v] = count
+
+    for adj in graph[v]:
+        if visited[adj] == 0:
+            count += 1
+            visited[adj] = count
+            count, visited = dfs_recursive(adj, visited, count)
+
+    return count, visited
+
+visited = [0] * (N + 1)
+for idx, i in enumerate(dfs_recursive(R, visited, 1)[1]):
+    if idx == 0:
+        continue
     print(i)
+print()
