@@ -39,3 +39,4 @@
 | 2024-03-11 | S2 | [24479](https://www.acmicpc.net/problem/24479) | Python | - | - | Timeout |
 | 2024-03-14 | S2 | [24479](https://www.acmicpc.net/problem/24479) | Python | 71,180KB | 648ms |
 | 2024-03-15 | S2 | [24480](https://www.acmicpc.net/problem/24480) | Python | 67,996KB | 568ms |
+| 2024-03-15 | S2 | [24444](https://www.acmicpc.net/problem/24444) | Python | 58,632KB | 540ms |
