@@ -107,3 +107,4 @@
 | 2024-03-02 | Test | [4012](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH) | Python | 60,264 kb | 201 ms | Wrong |
 | 2024-03-03 | Test | [4012](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH) | Python | 63,588 kb | 446 ms | Rewrite |
 | 2024-03-18 | D3 | [16942](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYcrUx-aSSMDFAVa&probBoxId=AY5PUAIqnH0DFARi) | Python | 217,080 kb | 1,861 ms |
+| 2024-03-18 | D3 | [16943](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYcrVJQaSWgDFAVa&probBoxId=AY5PUAIqnH0DFARi) | Python | 81,156 kb | 365 ms |
