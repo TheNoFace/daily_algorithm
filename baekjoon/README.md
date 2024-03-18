@@ -42,3 +42,4 @@
 | 2024-03-15 | S2 | [24444](https://www.acmicpc.net/problem/24444) | Python | 58,632KB | 540ms |
 | 2024-03-15 | S2 | [24445](https://www.acmicpc.net/problem/24445) | Python | 58,632KB | 552ms |
 | 2024-03-15 | S3 | [2606](https://www.acmicpc.net/problem/2606) | Python | 31,120KB | 40ms |
+| 2024-03-18 | S2 | [1260](https://www.acmicpc.net/problem/1260) | Python | 34,096KB | 76ms |
