@@ -116,3 +116,4 @@
 | 2024-03-19 | D3 | [16944, 5204](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYcrVmZaSb0DFAVa&probBoxId=AY5PUAIqnH0DFARi) | Python | 232,916 kb | 1,925 ms | Rewrite |
 | 2024-03-19 | D4 | [1865](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LuHfqDz8DFAXc) | Python | 84,372 kb | 13,921 ms |
 | 2024-03-20 | D4 | [1865](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LuHfqDz8DFAXc) | Python | 76,972 kb | 5,795 ms | Rewrite |
+| 2024-03-20 | D3 | [17015](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYdFX2OqvfMDFAVa&probBoxId=AY5ZiI-qG38DFARi) | Python | 67,792 kb | 151 ms |
