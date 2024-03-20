@@ -118,3 +118,4 @@
 | 2024-03-20 | D4 | [1865](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LuHfqDz8DFAXc) | Python | 76,972 kb | 5,795 ms | Rewrite |
 | 2024-03-20 | D3 | [17015](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYdFX2OqvfMDFAVa&probBoxId=AY5ZiI-qG38DFARi) | Python | 67,792 kb | 151 ms | Disjoint Sets |
 | 2024-03-20 | D3 | [17015](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYdFX2OqvfMDFAVa&probBoxId=AY5ZiI-qG38DFARi) | Python | 67,484 kb | 141 ms | DFS |
+| 2024-03-20 | D3 | [17014](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYdFHq16uboDFAVa&probBoxId=AY5ZiI-qG38DFARi) | Python | 239,540 kb | 906 ms |
