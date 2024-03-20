@@ -50,3 +50,4 @@
 | 2024-03-18 | S1 | [2667](https://www.acmicpc.net/problem/2667) | Python | 34,088KB | 60ms |
 | 2024-03-19 | S2 | [1012](https://www.acmicpc.net/problem/1012) | Python | 34,088KB | 72ms |
 | 2024-03-19 | S1 | [2178](https://www.acmicpc.net/problem/2178) | Python | 34,068KB | 76ms |
+| 2024-03-20 | S1 | [1697](https://www.acmicpc.net/problem/1697) | Python | 34,072KB | 144ms |
