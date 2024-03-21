@@ -120,3 +120,4 @@
 | 2024-03-20 | D3 | [17015](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYdFX2OqvfMDFAVa&probBoxId=AY5ZiI-qG38DFARi) | Python | 67,484 kb | 141 ms | DFS |
 | 2024-03-20 | D3 | [17014](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYdFHq16uboDFAVa&probBoxId=AY5ZiI-qG38DFARi) | Python | 239,540 kb | 906 ms |
 | 2024-03-21 | D3 | [17028](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYdJ95_aDiADFAVa&probBoxId=AY5evUOan8YDFARi) | Python | 89,052 kb | 509 ms | Kruskal |
+| 2024-03-21 | D3 | [17028](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYdJ95_aDiADFAVa&probBoxId=AY5evUOan8YDFARi) | Python | 87,448 kb | 660 ms | Prim (Heap) |
