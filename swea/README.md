@@ -123,3 +123,4 @@
 | 2024-03-21 | D3 | [17028](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYdJ95_aDiADFAVa&probBoxId=AY5evUOan8YDFARi) | Python | 87,448 kb | 660 ms | Prim (Heap) |
 | 2024-03-21 | D4 | [1238](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD) | Python | 68,316 kb | 253 ms |
 | 2024-03-21 | D3 | [17030](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYdJ-ooaDpUDFAVa&probBoxId=AY5evUOan8YDFARi) | Python | 76,680 kb | 514 ms | Dijkstra (Heap) |
+| 2024-03-22 | D6 | [1795](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4xuqCqBeUDFAUx) | Python | 89,464 kb | 743 ms |
