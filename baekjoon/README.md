@@ -55,3 +55,4 @@
 | 2024-03-21 | G5 | [16928](https://www.acmicpc.net/problem/16928) | Python | 34,060KB | 64ms |
 | 2024-03-22 | G5 | [15686](https://www.acmicpc.net/problem/15686) | Python | 34,088KB | 268ms |
 | 2024-03-23 | G4 | [1707](https://www.acmicpc.net/problem/1707) | Python | 52,292KB | 1,420ms | [Referenced](https://code-angie.tistory.com/20) |
+| 2024-03-23 | G3 | [2206](https://www.acmicpc.net/problem/2206) | Python | - | - | Wrong |
