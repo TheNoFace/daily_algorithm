@@ -1,8 +1,8 @@
 # https://www.acmicpc.net/problem/2206
+# https://www.acmicpc.net/board/view/119335
 
 import sys
 from collections import deque
-from pprint import pprint
 
 input = sys.stdin.readline
 
@@ -15,7 +15,8 @@ N, M = map(int, input().split())
 grid = [list(map(str, input().rstrip())) for _ in range(N)]
 dist = -1
 
-def pathfinder(r, c, dist_init, grid, visited, breakable):
+
+def pathfinder(r, c, dist_init, grid, breakable):
     global dist
 
     temp_grid = [[0] * M for _ in range(N)]
@@ -25,33 +26,36 @@ def pathfinder(r, c, dist_init, grid, visited, breakable):
 
     q = deque()
     q.append((r, c))
-    visited[r][c] = dist_init
+    temp_grid[r][c] = dist_init
 
     while q:
         sr, sc = q.popleft()
         for d in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
             nr, nc = sr + d[0], sc + d[1]
             if nr == N - 1 and nc == M - 1:
-                dist = visited[sr][sc] + 1
+                temp_dist = temp_grid[sr][sc] + 1
+                if dist >= 0:
+                    dist = min(dist, temp_dist)
+                else:
+                    dist = temp_dist
                 return
 
-            if 0 <= nr < N and 0 <= nc < M and not visited[nr][nc]:
+            if 0 <= nr < N and 0 <= nc < M:
                 # 벽을 만났을 때
-                if temp_grid[nr][nc] == '1':
+                if temp_grid[nr][nc] == "1":
                     if breakable:
                         # 재귀 진입
                         # 벽 부수기
-                        temp_grid[nr][nc] = '0'
-                        pathfinder(sr, sc, visited[sr][sc], temp_grid, visited, False)
+                        temp_grid[nr][nc] = "0"
+                        pathfinder(sr, sc, temp_grid[sr][sc], temp_grid, False)
                         # 벽 돌아가기
-                        temp_grid[nr][nc] = '1'
+                        temp_grid[nr][nc] = "1"
                         continue
                 # 벽이 아닐 경우
-                else:
+                if temp_grid[nr][nc] == "0":
                     q.append((nr, nc))
-                    visited[nr][nc] = visited[sr][sc] + 1
+                    temp_grid[nr][nc] = temp_grid[sr][sc] + 1
 
 
-visited = [[0] * M for _ in range(N)]
-pathfinder(0, 0, 1, grid, visited, True)
+pathfinder(0, 0, 1, grid, True)
 print(dist)
