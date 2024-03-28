@@ -59,3 +59,4 @@
 | 2024-03-24 | G3 | [2206](https://www.acmicpc.net/problem/2206) | Python | 118,204KB | 2,708ms | [Referenced](https://forward-gradually.tistory.com/57) |
 | 2024-03-25 | B3 | [16673](https://www.acmicpc.net/problem/16673) | Python | 31,120KB | 44ms |
 | 2024-03-26 | S4 | [10773](https://www.acmicpc.net/problem/10773) | Python | 31,900KB | 76ms |
+| 2024-03-27 | S4 | [2164](https://www.acmicpc.net/problem/2164) | Python |	54,868KB | 232 ms |
