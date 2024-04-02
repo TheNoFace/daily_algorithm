@@ -63,4 +63,8 @@
 | 2024-03-28 | S2 | [1780](https://www.acmicpc.net/problem/1780) | Python | - | - | Wrong |
 | 2024-03-29 | S2 | [1780](https://www.acmicpc.net/problem/1780) | Python | 69,432KB | 5,956ms |
 | 2024-03-29 | S2 | [2630](https://www.acmicpc.net/problem/2630) | Python | 31,120KB | 56ms |
+
+## 2024 April
+| Date | Difficulty | Problem # | Language | Memory | Time | Status |
+| --- | --- | --- | --- | --- | --- | --- |
 | 2024-04-01 | S1 | [1992](https://www.acmicpc.net/problem/1992) | Python | 31,120KB | 48ms |

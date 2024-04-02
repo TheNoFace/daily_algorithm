@@ -128,3 +128,8 @@
 | 2024-03-22 | D4 | [1486](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b7Yf6ABcBBASw) | Python | 71,888 kb | 347 ms |
 | 2024-03-25 | D2 | [5185](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYDLaK1kMDFAVT) | Python | - KB | - ms |
 | 2024-03-29 | D3 | [16979](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYcv8epqK60DFAVa&probBoxId=AY5UrhSaAAIDFARi) | Python | 70,976 kb | 539 ms |
+
+## 2024 April
+| Date | Difficulty | Problem # | Language | Memory | Time | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024-04-02 | D3 | [16977](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYcv8A8KK20DFAVa&probBoxId=AY5UrhSaAAIDFARi) | Python | 72,988 kb | 480 ms |
