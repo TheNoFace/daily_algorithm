@@ -69,3 +69,4 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024-04-01 | S1 | [1992](https://www.acmicpc.net/problem/1992) | Python | 31,120KB | 48ms |
 | 2024-04-03 | G5 | [31476](https://www.acmicpc.net/problem/31476) | Python | - | - | Wrong |
+| 2024-04-04 | G5 | [31476](https://www.acmicpc.net/problem/31476) | Python | 34,200KB | 76ms |
