@@ -133,3 +133,4 @@
 | Date | Difficulty | Problem # | Language | Memory | Time | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024-04-02 | D3 | [16977](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYzyVay6v90DFAXz&contestProbId=AYcv8A8KK20DFAVa&probBoxId=AY5UrhSaAAIDFARi) | Python | 72,988 kb | 480 ms |
+| 2024-04-10 | Test | [1952](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq) | Python | 49,232 kb | 136 ms |
