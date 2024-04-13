@@ -74,4 +74,4 @@
 | 2024-04-06 | S3 | [18115](https://www.acmicpc.net/problem/18115) | Python | 110,512 | 1,092ms |
 | 2024-04-08 | S5 | [1475](https://www.acmicpc.net/problem/1475) | Python | 31,120KB | 44ms |
 | 2024-04-08 | G4 | [9019](https://www.acmicpc.net/problem/9019) | Python | 213,496KB | 5,340ms |
-| 2024-04-12 | G4 | [17471](https://www.acmicpc.net/problem/17471) | Python | 34,112KB | 80ms | [Referenced](https://cotak.tistory.com/66) |
+| 2024-04-12 | G3 | [17471](https://www.acmicpc.net/problem/17471) | Python | 34,112KB | 80ms | [Referenced](https://cotak.tistory.com/66) |
