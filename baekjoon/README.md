@@ -75,3 +75,4 @@
 | 2024-04-08 | S5 | [1475](https://www.acmicpc.net/problem/1475) | Python | 31,120KB | 44ms |
 | 2024-04-08 | G4 | [9019](https://www.acmicpc.net/problem/9019) | Python | 213,496KB | 5,340ms |
 | 2024-04-12 | G3 | [17471](https://www.acmicpc.net/problem/17471) | Python | 34,112KB | 80ms | [Referenced](https://cotak.tistory.com/66) |
+| 2024-04-13 | G4 | [6987](https://www.acmicpc.net/problem/6987) | Python | 31,120KB | 40ms | [Referenced](https://brorica.tistory.com/206) |
