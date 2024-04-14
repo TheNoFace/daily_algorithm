@@ -78,3 +78,4 @@
 | 2024-04-13 | G4 | [6987](https://www.acmicpc.net/problem/6987) | Python | 31,120KB | 40ms | [Referenced](https://brorica.tistory.com/206) |
 | 2024-04-14 | B4 | [15439](https://www.acmicpc.net/problem/15439) | Python | 31,120KB | 40ms |
 | 2024-04-14 | B4 | [24723](https://www.acmicpc.net/problem/24723) | Python | 31,120KB | 40ms |
+| 2024-04-14 | B4 | [10872](https://www.acmicpc.net/problem/10872) | Python | 31,120KB | 40ms |
