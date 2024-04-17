@@ -89,3 +89,4 @@
 | 2024-04-16 | S4 | [1269](https://www.acmicpc.net/problem/1269) | Python | 81,104KB | 252ms |
 | 2024-04-16 | S3 | [11478](https://www.acmicpc.net/problem/11478) | Python | 240,844KB | 544ms |
 | 2024-04-17 | B2 | [2798](https://www.acmicpc.net/problem/2798) | Python | 31,120KB | 92ms |
+| 2024-04-17 | B2 | [2231](https://www.acmicpc.net/problem/2231) | Python | 31,120KB | 40ms |
