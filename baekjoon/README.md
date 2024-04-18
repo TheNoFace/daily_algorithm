@@ -92,3 +92,4 @@
 | 2024-04-17 | B2 | [2231](https://www.acmicpc.net/problem/2231) | Python | 31,120KB | 40ms |
 | 2024-04-17 | B2 | [19532](https://www.acmicpc.net/problem/19532) | Python | 31,120KB | 40ms |
 | 2024-04-17 | S4 | [1018](https://www.acmicpc.net/92oblem/1018) | Python | 31,120KB | 92ms |
+| 2024-04-18 | S5 | [1436](https://www.acmicpc.net/92oblem/1436) | Python | 31,120KB | 3,800ms |
