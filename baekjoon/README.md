@@ -94,3 +94,4 @@
 | 2024-04-17 | S4 | [1018](https://www.acmicpc.net/92oblem/1018) | Python | 31,120KB | 92ms |
 | 2024-04-18 | S5 | [1436](https://www.acmicpc.net/92oblem/1436) | Python | 31,120KB | 3,800ms |
 | 2024-04-19 | S4 | [2839](https://www.acmicpc.net/92oblem/2839) | Python | 31,128KB | 44ms |
+| 2024-04-19 | B5 | [27433](https://www.acmicpcet/92oblem/27433) | Python | 31,120KB | 40ms |
