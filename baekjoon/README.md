@@ -96,3 +96,4 @@
 | 2024-04-19 | S4 | [2839](https://www.acmicpc.net/problem/2839) | Python | 31,128KB | 44ms |
 | 2024-04-19 | B5 | [27433](https://www.acmicpcet/problem/27433) | Python | 31,120KB | 40ms |
 | 2024-04-19 | B2 | [10870](https://www.acmicpcet/problem/10870) | Python | 31,120KB | 44ms |
+| 2024-04-19 | B2 | [25501](https://www.acmicpcet/problem/25501) | Python | 31,180KB | 516ms |
