@@ -98,4 +98,5 @@
 | 2024-04-19 | B2 | [10870](https://www.acmicpcet/problem/10870) | Python | 31,120KB | 44ms |
 | 2024-04-19 | B2 | [25501](https://www.acmicpcet/problem/25501) | Python | 31,180KB | 516ms |
 | 2024-04-20 | S3 | [24060](https://www.acmicpcet/problem/24060) | Python | 146,756KB | 2,524ms | [Referenced](https://velog.io/@nembizzang/백준-24060-알고리즘-수업-병합-정렬-1-파이썬) |
-| 2024-04-21 | S3  | [4779](https://www.acmicpcet/problem/4779) | Python | 36,652KB | 112ms |
+| 2024-04-21 | S3 | [4779](https://www.acmicpcet/problem/4779) | Python | 36,652KB | 112ms |
+| 2024-04-22 | G5 | [2447](https://www.acmicpcet/problem/2447) | Python | 67,900KB | 720ms |
