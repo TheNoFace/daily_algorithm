@@ -101,3 +101,8 @@
 | 2024-04-21 | S3 | [4779](https://www.acmicpcet/problem/4779) | Python | 36,652KB | 112ms |
 | 2024-04-22 | G5 | [2447](https://www.acmicpcet/problem/2447) | Python | 67,900KB | 720ms |
 | 2024-04-23 | G5 | [11729](https://www.acmicpcet/problem/11729) | Python | 105,928KB | 1,072ms |
+
+## 2024 May
+| Date | Difficulty | Problem # | Language | Memory | Time | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024-05-02 | S4 | [4949](https://www.acmicpcet/problem/4949) | Python | 31,120KB | 84ms |
