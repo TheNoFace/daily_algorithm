@@ -107,3 +107,8 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024-05-02 | S4 | [4949](https://www.acmicpcet/problem/4949) | Python | 31,120KB | 84ms |
 | 2024-05-02 | S5 | [11866](https://www.acmicpcet/problem/11866) | Python | 31,120KB | 640ms |
+
+## 2024 June
+| Date | Difficulty | Problem # | Language | Memory | Time | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024-06-04 | G5 | [1174](https://www.acmicpcet/problem/1174) | Python | 31,120KB | 44ms |
