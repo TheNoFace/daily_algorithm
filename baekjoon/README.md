@@ -112,3 +112,4 @@
 | Date | Difficulty | Problem # | Language | Memory | Time | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024-06-04 | G5 | [1174](https://www.acmicpcet/problem/1174) | Python | 31,120KB | 44ms |
+| 2024-06-04 | G4 | [2224](https://www.acmicpcet/problem/2224) | Python | 31,120KB | 124ms |
