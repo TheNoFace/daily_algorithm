@@ -114,4 +114,5 @@
 | 2024-06-04 | G5 | [1174](https://www.acmicpcet/problem/1174) | Python | 31,120KB | 44ms |
 | 2024-06-04 | G4 | [2224](https://www.acmicpcet/problem/2224) | Python | 31,120KB | 124ms |
 | 2024-06-09 | G3 | [15685](https://www.acmicpcet/problem/15685) | Python | 31,120KB | 52ms |
-| 2024-06-12 | B1 | [24416](https://www.acmicpcet/problem/24416) | Python | 31,120KB | 44ms |
+| 2024-06-12 | B1 | [24416](https://www.acmicpcet/problem/24416) | Python | 31,120KB | 44ms | [Referenced](https://www.acmicpc.net/board/view/123191) |
+| 2024-06-13 | S2 | [9184](https://www.acmicpcet/problem/9184) | Python | 32,140KB | 72ms | [Referenced](https://yeoooo.github.io/algorithm/BOJ9148/) |
