@@ -119,3 +119,4 @@
 | 2024-06-13 | S3 | [1904](https://www.acmicpcet/problem/1904) | Python | 31,120KB | 136ms | [Referenced](https://velog.io/@dlwns97/백준-1904번-01타일) |
 | 2024-06-13 | S2 | [1912](https://www.acmicpcet/problem/1912) | Python | 38,828KB | 100ms | [Referenced](https://lemon27.tistory.com/10) |
 | 2024-06-14 | S1 | [1149](https://www.acmicpcet/problem/1149) | Python | 31,120KB | 40ms | [Referenced](https://hongcoding.tistory.com/123) |
+| 2024-06-14 | S1 | [1932](https://www.acmicpcet/problem/1932) | Python | 39,740KB | 168ms |
