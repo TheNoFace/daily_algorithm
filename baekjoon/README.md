@@ -121,3 +121,4 @@
 | 2024-06-14 | S1 | [1149](https://www.acmicpc.net/problem/1149) | Python | 31,120KB | 40ms | [Referenced](https://hongcoding.tistory.com/123) |
 | 2024-06-14 | S1 | [1932](https://www.acmicpc.net/problem/1932) | Python | 39,740KB | 168ms |
 | 2024-06-14 | G5 | [14550](https://www.acmicpc.net/problem/14550) | Python | 31,120KB | 88ms |
+| 2024-06-15 | S3 | [2579](https://www.acmicpc.net/problem/2579) | Python | 31,120KB | 40ms | [Referenced](https://sungmin-joo.tistory.com/18)
