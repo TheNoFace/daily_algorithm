@@ -94,29 +94,30 @@
 | 2024-04-17 | S4 | [1018](https://www.acmicpc.net/problem/1018) | Python | 31,120KB | 92ms |
 | 2024-04-18 | S5 | [1436](https://www.acmicpc.net/problem/1436) | Python | 31,120KB | 3,800ms |
 | 2024-04-19 | S4 | [2839](https://www.acmicpc.net/problem/2839) | Python | 31,128KB | 44ms |
-| 2024-04-19 | B5 | [27433](https://www.acmicpcet/problem/27433) | Python | 31,120KB | 40ms |
-| 2024-04-19 | B2 | [10870](https://www.acmicpcet/problem/10870) | Python | 31,120KB | 44ms |
-| 2024-04-19 | B2 | [25501](https://www.acmicpcet/problem/25501) | Python | 31,180KB | 516ms |
-| 2024-04-20 | S3 | [24060](https://www.acmicpcet/problem/24060) | Python | 146,756KB | 2,524ms | [Referenced](https://velog.io/@nembizzang/백준-24060-알고리즘-수업-병합-정렬-1-파이썬) |
-| 2024-04-21 | S3 | [4779](https://www.acmicpcet/problem/4779) | Python | 36,652KB | 112ms |
-| 2024-04-22 | G5 | [2447](https://www.acmicpcet/problem/2447) | Python | 67,900KB | 720ms |
-| 2024-04-23 | G5 | [11729](https://www.acmicpcet/problem/11729) | Python | 105,928KB | 1,072ms |
+| 2024-04-19 | B5 | [27433](https://www.acmicpc.net/problem/27433) | Python | 31,120KB | 40ms |
+| 2024-04-19 | B2 | [10870](https://www.acmicpc.net/problem/10870) | Python | 31,120KB | 44ms |
+| 2024-04-19 | B2 | [25501](https://www.acmicpc.net/problem/25501) | Python | 31,180KB | 516ms |
+| 2024-04-20 | S3 | [24060](https://www.acmicpc.net/problem/24060) | Python | 146,756KB | 2,524ms | [Referenced](https://velog.io/@nembizzang/백준-24060-알고리즘-수업-병합-정렬-1-파이썬) |
+| 2024-04-21 | S3 | [4779](https://www.acmicpc.net/problem/4779) | Python | 36,652KB | 112ms |
+| 2024-04-22 | G5 | [2447](https://www.acmicpc.net/problem/2447) | Python | 67,900KB | 720ms |
+| 2024-04-23 | G5 | [11729](https://www.acmicpc.net/problem/11729) | Python | 105,928KB | 1,072ms |
 
 ## 2024 May
 | Date | Difficulty | Problem # | Language | Memory | Time | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2024-05-02 | S4 | [4949](https://www.acmicpcet/problem/4949) | Python | 31,120KB | 84ms |
-| 2024-05-02 | S5 | [11866](https://www.acmicpcet/problem/11866) | Python | 31,120KB | 640ms |
+| 2024-05-02 | S4 | [4949](https://www.acmicpc.net/problem/4949) | Python | 31,120KB | 84ms |
+| 2024-05-02 | S5 | [11866](https://www.acmicpc.net/problem/11866) | Python | 31,120KB | 640ms |
 
 ## 2024 June
 | Date | Difficulty | Problem # | Language | Memory | Time | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2024-06-04 | G5 | [1174](https://www.acmicpcet/problem/1174) | Python | 31,120KB | 44ms |
-| 2024-06-04 | G4 | [2224](https://www.acmicpcet/problem/2224) | Python | 31,120KB | 124ms |
-| 2024-06-09 | G3 | [15685](https://www.acmicpcet/problem/15685) | Python | 31,120KB | 52ms |
-| 2024-06-12 | B1 | [24416](https://www.acmicpcet/problem/24416) | Python | 31,120KB | 44ms | [Referenced](https://www.acmicpc.net/board/view/123191) |
-| 2024-06-13 | S2 | [9184](https://www.acmicpcet/problem/9184) | Python | 32,140KB | 72ms | [Referenced](https://yeoooo.github.io/algorithm/BOJ9148/) |
-| 2024-06-13 | S3 | [1904](https://www.acmicpcet/problem/1904) | Python | 31,120KB | 136ms | [Referenced](https://velog.io/@dlwns97/백준-1904번-01타일) |
-| 2024-06-13 | S2 | [1912](https://www.acmicpcet/problem/1912) | Python | 38,828KB | 100ms | [Referenced](https://lemon27.tistory.com/10) |
-| 2024-06-14 | S1 | [1149](https://www.acmicpcet/problem/1149) | Python | 31,120KB | 40ms | [Referenced](https://hongcoding.tistory.com/123) |
-| 2024-06-14 | S1 | [1932](https://www.acmicpcet/problem/1932) | Python | 39,740KB | 168ms |
+| 2024-06-04 | G5 | [1174](https://www.acmicpc.net/problem/1174) | Python | 31,120KB | 44ms |
+| 2024-06-04 | G4 | [2224](https://www.acmicpc.net/problem/2224) | Python | 31,120KB | 124ms |
+| 2024-06-09 | G3 | [15685](https://www.acmicpc.net/problem/15685) | Python | 31,120KB | 52ms |
+| 2024-06-12 | B1 | [24416](https://www.acmicpc.net/problem/24416) | Python | 31,120KB | 44ms | [Referenced](https://www.acmicpc.net/board/view/123191) |
+| 2024-06-13 | S2 | [9184](https://www.acmicpc.net/problem/9184) | Python | 32,140KB | 72ms | [Referenced](https://yeoooo.github.io/algorithm/BOJ9148/) |
+| 2024-06-13 | S3 | [1904](https://www.acmicpc.net/problem/1904) | Python | 31,120KB | 136ms | [Referenced](https://velog.io/@dlwns97/백준-1904번-01타일) |
+| 2024-06-13 | S2 | [1912](https://www.acmicpc.net/problem/1912) | Python | 38,828KB | 100ms | [Referenced](https://lemon27.tistory.com/10) |
+| 2024-06-14 | S1 | [1149](https://www.acmicpc.net/problem/1149) | Python | 31,120KB | 40ms | [Referenced](https://hongcoding.tistory.com/123) |
+| 2024-06-14 | S1 | [1932](https://www.acmicpc.net/problem/1932) | Python | 39,740KB | 168ms |
+| 2024-06-14 | G5 | [14550](https://www.acmicpc.net/problem/14550) | Python | 31,120KB | 92ms |
