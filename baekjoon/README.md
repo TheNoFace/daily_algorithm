@@ -125,3 +125,4 @@
 | 2024-06-15 | G3 | [1937](https://www.acmicpc.net/problem/1937) | Python | 62,112KB | 896ms | [Referenced](https://velog.io/@gale4739/백준-1937-욕심쟁이-판다Java) |
 | 2024-06-15 | G4 | [2600](https://www.acmicpc.net/problem/2600) | Python | 33,656KB | 1,544ms | [Referenced](https://ji-gwang.tistory.com/438) |
 | 2024-06-16 | S3 | [1463](https://www.acmicpc.net/problem/1463) | Python | 38,932KB | 548ms | [Referenced](https://jominseoo.tistory.com/98) |
+| 2024-06-17 | S1 | [10844](https://www.acmicpc.net/problem/10844) | Python | 31,120KB | 40ms | [Referenced](https://www.acmicpc.net/board/view/122963) |
