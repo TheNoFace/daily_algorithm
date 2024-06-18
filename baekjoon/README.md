@@ -126,3 +126,4 @@
 | 2024-06-15 | G4 | [2600](https://www.acmicpc.net/problem/2600) | Python | 33,656KB | 1,544ms | [Referenced](https://ji-gwang.tistory.com/438) |
 | 2024-06-16 | S3 | [1463](https://www.acmicpc.net/problem/1463) | Python | 38,932KB | 548ms | [Referenced](https://jominseoo.tistory.com/98) |
 | 2024-06-17 | S1 | [10844](https://www.acmicpc.net/problem/10844) | Python | 31,120KB | 40ms | [Referenced](https://www.acmicpc.net/board/view/122963) |
+| 2024-06-18 | G3 | [1520](https://www.acmicpc.net/problem/1520) | Python | 42,780KB | 128ms | [Referenced](https://www.acmicpc.net/board/view/128488) |
