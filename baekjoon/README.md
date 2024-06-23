@@ -128,3 +128,4 @@
 | 2024-06-17 | S1 | [10844](https://www.acmicpc.net/problem/10844) | Python | 31,120KB | 40ms | [Referenced](https://www.acmicpc.net/board/view/122963) |
 | 2024-06-18 | G3 | [1520](https://www.acmicpc.net/problem/1520) | Python | 42,780KB | 128ms | [Referenced](https://www.acmicpc.net/board/view/128488) |
 | 2024-06-19 | G5 | [3020](https://www.acmicpc.net/problem/3020) | Python | 78,408KB | 412ms | [Referenced](https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/week_03/문제_01/이정하_3020.py) |
+| 2024-06-23 | G2 | [17611](https://www.acmicpc.net/problem/17611) | Python | 266,748KB | 260ms | [Referenced](https://yabmoons.tistory.com/707), PyPy |
