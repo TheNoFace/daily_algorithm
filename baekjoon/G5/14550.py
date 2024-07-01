@@ -11,22 +11,22 @@ while True:
         break
 
     N, S, T = map(int, input_str)
-    board = [99999]  # 시작점 설정
-    dp = [[-10000 * N] * (N + 1) for _ in range(T + 1)]
+    board = [0]  # 시작점 설정
+    dp = [[-10000 * N] * (N + 1) for _ in range(T)]
 
     while len(board) != N + 1:
         board.extend(list(map(int, input().split())))
 
-    board.append(99999)  # 종료점 설정
+    board.append(0)  # 종료점 설정
     result = set()
 
     # 초기값 설정
     for i in range(1, S + 1):
-        dp[1][i] = board[i]
+        dp[0][i] = board[i]
 
     # 직전 턴에 도달한 각 인덱스마다 1 ~ S 눈금의 주사위를 굴림
-    for t in range(2, T + 1):
-        for idx in range(t - 1, (t - 1) * S + 1):
+    for t in range(1, T):
+        for idx in range(t, t * S + 1):
             for s in range(1, S + 1):
                 if idx > N:
                     continue

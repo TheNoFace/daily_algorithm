@@ -120,4 +120,15 @@
 | 2024-06-13 | S2 | [1912](https://www.acmicpc.net/problem/1912) | Python | 38,828KB | 100ms | [Referenced](https://lemon27.tistory.com/10) |
 | 2024-06-14 | S1 | [1149](https://www.acmicpc.net/problem/1149) | Python | 31,120KB | 40ms | [Referenced](https://hongcoding.tistory.com/123) |
 | 2024-06-14 | S1 | [1932](https://www.acmicpc.net/problem/1932) | Python | 39,740KB | 168ms |
-| 2024-06-14 | G5 | [14550](https://www.acmicpc.net/problem/14550) | Python | 31,120KB | 92ms |
+| 2024-06-14 | G5 | [14550](https://www.acmicpc.net/problem/14550) | Python | 31,120KB | 88ms |
+| 2024-06-15 | S3 | [2579](https://www.acmicpc.net/problem/2579) | Python | 31,120KB | 40ms | [Referenced](https://sungmin-joo.tistory.com/18) |
+| 2024-06-15 | G3 | [1937](https://www.acmicpc.net/problem/1937) | Python | 62,112KB | 896ms | [Referenced](https://velog.io/@gale4739/백준-1937-욕심쟁이-판다Java) |
+| 2024-06-15 | G4 | [2600](https://www.acmicpc.net/problem/2600) | Python | 33,656KB | 1,544ms | [Referenced](https://ji-gwang.tistory.com/438) |
+| 2024-06-16 | S3 | [1463](https://www.acmicpc.net/problem/1463) | Python | 38,932KB | 548ms | [Referenced](https://jominseoo.tistory.com/98) |
+| 2024-06-17 | S1 | [10844](https://www.acmicpc.net/problem/10844) | Python | 31,120KB | 40ms | [Referenced](https://www.acmicpc.net/board/view/122963) |
+| 2024-06-18 | G3 | [1520](https://www.acmicpc.net/problem/1520) | Python | 42,780KB | 128ms | [Referenced](https://www.acmicpc.net/board/view/128488) |
+| 2024-06-19 | G5 | [3020](https://www.acmicpc.net/problem/3020) | Python | 78,408KB | 412ms | [Referenced](https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/week_03/문제_01/이정하_3020.py) |
+| 2024-06-23 | G2 | [17611](https://www.acmicpc.net/problem/17611) | Python | 266,748KB | 260ms | [Referenced](https://yabmoons.tistory.com/707), PyPy |
+| 2024-06-30 | G4 | [17069](https://www.acmicpc.net/problem/17069) | Python | 31,120KB | 40ms | [Referenced](https://www.acmicpc.net/board/view/77172) |
+| 2024-06-30 | G3 | [14466](https://www.acmicpc.net/problem/14466) | Python | 900,760KB | 6,012ms | [Referenced](https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/week_04/%EB%AC%B8%EC%A0%9C_02/%EC%A0%84%EA%B8%B0%EC%B2%A0_14466.py) |
+| 2024-06-30 | G4 | [11559](https://www.acmicpc.net/problem/11559) | Python | 34,140KB | 52ms | |
