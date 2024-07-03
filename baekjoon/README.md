@@ -132,3 +132,8 @@
 | 2024-06-30 | G4 | [17069](https://www.acmicpc.net/problem/17069) | Python | 31,120KB | 40ms | [Referenced](https://www.acmicpc.net/board/view/77172) |
 | 2024-06-30 | G3 | [14466](https://www.acmicpc.net/problem/14466) | Python | 900,760KB | 6,012ms | [Referenced](https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/week_04/%EB%AC%B8%EC%A0%9C_02/%EC%A0%84%EA%B8%B0%EC%B2%A0_14466.py) |
 | 2024-06-30 | G4 | [11559](https://www.acmicpc.net/problem/11559) | Python | 34,140KB | 52ms | |
+
+## 2024 July
+| Date | Difficulty | Problem # | Language | Memory | Time | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024-07-03 | G4 | [13422](https://www.acmicpc.net/problem/13422) | Python | 47,436KB | 640ms |
