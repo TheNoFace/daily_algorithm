@@ -137,3 +137,4 @@
 | Date | Difficulty | Problem # | Language | Memory | Time | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024-07-03 | G4 | [13422](https://www.acmicpc.net/problem/13422) | Python | 47,436KB | 640ms |
+| 2024-07-05 | G3 | [16235](https://www.acmicpc.net/problem/16235) | Python | 120,712KB | 564ms | PyPy |
