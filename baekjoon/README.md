@@ -139,3 +139,4 @@
 | 2024-07-03 | G4 | [13422](https://www.acmicpc.net/problem/13422) | Python | 47,436KB | 640ms |
 | 2024-07-05 | G3 | [16235](https://www.acmicpc.net/problem/16235) | Python | 120,712KB | 564ms | PyPy |
 | 2024-07-07 | G3 | [1600](https://www.acmicpc.net/problem/1600) | Python | 47,892KB | 4,352ms | [Referenced](https://www.acmicpc.net/board/view/141358) |
+| 2024-07-14 | G3 | [2146](https://www.acmicpc.net/problem/2146) | Python | 34,192KB | 244ms |
