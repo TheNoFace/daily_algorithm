@@ -143,3 +143,4 @@
 | 2024-07-14 | G3 | [2482](https://www.acmicpc.net/problem/2482) | Python | 55,256KB | 168ms | [Referenced](https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/week_06/문제_03/이명욱_2482.py) |
 | 2024-07-21 | G4 | [1744](https://www.acmicpc.net/problem/1744) | Python | 31,120KB | 40ms | [Referenced](https://codingnotes.tistory.com/170) |
 | 2024-07-21 | G4 | [2573](https://www.acmicpc.net/problem/2573) | Python | 185,384KB | 548ms | PyPy |
+| 2024-07-21 | G4 | [16947](https://www.acmicpc.net/problem/16947) | Python | 67,292KB | 1,536ms | [Referenced](https://yjg-lab.tistory.com/429) |
