@@ -140,5 +140,6 @@
 | 2024-07-05 | G3 | [16235](https://www.acmicpc.net/problem/16235) | Python | 120,712KB | 564ms | PyPy |
 | 2024-07-07 | G3 | [1600](https://www.acmicpc.net/problem/1600) | Python | 47,892KB | 4,352ms | [Referenced](https://www.acmicpc.net/board/view/141358) |
 | 2024-07-14 | G3 | [2146](https://www.acmicpc.net/problem/2146) | Python | 34,192KB | 244ms |
-| 2024-07-14 | G3 | [2482](https://www.acmicpc.net/problem/2482) | Python | 55,256KB | 168ms | [Referenced](https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/week_06/문제_03/이명욱_2482.py)
-| 2024-07-21 | G4 | [1744](https://www.acmicpc.net/problem/1744) | Python | 31,120KB | 40ms | [Referenced](https://codingnotes.tistory.com/170)
+| 2024-07-14 | G3 | [2482](https://www.acmicpc.net/problem/2482) | Python | 55,256KB | 168ms | [Referenced](https://github.com/ssafy-gwangju-03-java/marathon-algorithms/blob/main/week_06/문제_03/이명욱_2482.py) |
+| 2024-07-21 | G4 | [1744](https://www.acmicpc.net/problem/1744) | Python | 31,120KB | 40ms | [Referenced](https://codingnotes.tistory.com/170) |
+| 2024-07-21 | G4 | [2573](https://www.acmicpc.net/problem/2573) | Python | 185,384KB | 548ms | PyPy |
