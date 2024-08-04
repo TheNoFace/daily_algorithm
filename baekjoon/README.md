@@ -144,3 +144,8 @@
 | 2024-07-21 | G4 | [1744](https://www.acmicpc.net/problem/1744) | Python | 31,120KB | 40ms | [Referenced](https://codingnotes.tistory.com/170) |
 | 2024-07-21 | G4 | [2573](https://www.acmicpc.net/problem/2573) | Python | 185,384KB | 548ms | PyPy |
 | 2024-07-21 | G4 | [16947](https://www.acmicpc.net/problem/16947) | Python | 67,292KB | 1,536ms | [Referenced](https://yjg-lab.tistory.com/429) |
+
+## 2024 August
+| Date | Difficulty | Problem # | Language | Memory | Time | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024-07-03 | G5 | [5549](https://www.acmicpc.net/problem/5549) | Python | 236,332KB | 3,264ms | [Referenced](https://velog.io/@engus525/백준-5549번-행성-탐사) |
