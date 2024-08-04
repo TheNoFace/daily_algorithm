@@ -148,4 +148,5 @@
 ## 2024 August
 | Date | Difficulty | Problem # | Language | Memory | Time | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2024-07-03 | G5 | [5549](https://www.acmicpc.net/problem/5549) | Python | 236,332KB | 3,264ms | [Referenced](https://velog.io/@engus525/백준-5549번-행성-탐사) |
+| 2024-08-04 | G5 | [5549](https://www.acmicpc.net/problem/5549) | Python | 236,332KB | 3,264ms | [Referenced](https://velog.io/@engus525/백준-5549번-행성-탐사) |
+| 2024-08-04 | G4 | [1806](https://www.acmicpc.net/problem/1806) | Python | 42,204KB | 104ms | [Referenced](https://codinghejow.tistory.com/246) |
