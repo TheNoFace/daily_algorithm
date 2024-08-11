@@ -151,3 +151,4 @@
 | 2024-08-04 | G5 | [5549](https://www.acmicpc.net/problem/5549) | Python | 236,332KB | 3,264ms | [Referenced](https://velog.io/@engus525/백준-5549번-행성-탐사) |
 | 2024-08-04 | G4 | [1806](https://www.acmicpc.net/problem/1806) | Python | 42,204KB | 104ms | [Referenced](https://codinghejow.tistory.com/246) |
 | 2024-08-04 | G2 | [17136](https://www.acmicpc.net/problem/17136) | Python | 31,132KB | 1,660ms | [Referenced](https://chldkato.tistory.com/167) |
+| 2024-08-11 | G5 | [21610](https://www.acmicpc.net/problem/21610) | Python | 31,252KB	| 348ms | [Referenced](https://jaehwaseo.tistory.com/26) |
