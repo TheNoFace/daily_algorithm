@@ -153,3 +153,4 @@
 | 2024-08-04 | G2 | [17136](https://www.acmicpc.net/problem/17136) | Python | 31,132KB | 1,660ms | [Referenced](https://chldkato.tistory.com/167) |
 | 2024-08-11 | G5 | [21610](https://www.acmicpc.net/problem/21610) | Python | 31,252KB	| 348ms | [Referenced](https://jaehwaseo.tistory.com/26) |
 | 2024-08-11 | G5 | [13164](https://www.acmicpc.net/problem/13164) | Python | 66,600KB | 260ms | [Referenced](https://nanyoungkim.tistory.com/220) |
+| 2024-08-11 | G4 | [18513](https://www.acmicpc.net/problem/18513) | Python | 55,540KB | 212ms | [Referenced](https://velog.io/@juuiccyy/백준-18513-샘터-Python) |
