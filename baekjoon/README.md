@@ -154,3 +154,4 @@
 | 2024-08-11 | G5 | [21610](https://www.acmicpc.net/problem/21610) | Python | 31,252KB	| 348ms | [Referenced](https://jaehwaseo.tistory.com/26) |
 | 2024-08-11 | G5 | [13164](https://www.acmicpc.net/problem/13164) | Python | 66,600KB | 260ms | [Referenced](https://nanyoungkim.tistory.com/220) |
 | 2024-08-11 | G4 | [18513](https://www.acmicpc.net/problem/18513) | Python | 55,540KB | 212ms | [Referenced](https://velog.io/@juuiccyy/백준-18513-샘터-Python) |
+| 2024-08-25 | G4 | [20056](https://www.acmicpc.net/problem/20056) | Python | 33,164KB | 844ms | [Referenced](https://cheon2308.tistory.com/entry/백준-20056번-파이썬-마법사-상어와-파이어볼) |
