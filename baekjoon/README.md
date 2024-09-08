@@ -157,3 +157,6 @@
 | 2024-08-25 | G4 | [20056](https://www.acmicpc.net/problem/20056) | Python | 33,164KB | 844ms | [Referenced](https://cheon2308.tistory.com/entry/백준-20056번-파이썬-마법사-상어와-파이어볼) |
 | 2024-08-25 | G4 | [23309](https://www.acmicpc.net/problem/23309) | Python | 236,884KB | 1304ms | [Referenced](https://developerjisu.tistory.com/18) |
 | 2024-08-25 | G4 | [14002](https://www.acmicpc.net/problem/14002) | Python | 31,120KB | 108ms | [Referenced](https://sjkoding.tistory.com/62) |
+
+## 2024 September
+| 2024-09-08 | G5 | [2212](https://www.acmicpc.net/problem/2212) | Python | 32,140KB | 40ms | [Referenced](https://velog.io/@jkh9615/알고리즘-백준-11000-강의실-배정-Java-wskzqzk6) |
