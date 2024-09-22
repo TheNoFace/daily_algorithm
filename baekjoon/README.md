@@ -159,6 +159,9 @@
 | 2024-08-25 | G4 | [14002](https://www.acmicpc.net/problem/14002) | Python | 31,120KB | 108ms | [Referenced](https://sjkoding.tistory.com/62) |
 
 ## 2024 September
+| Date | Difficulty | Problem # | Language | Memory | Time | Status |
+| --- | --- | --- | --- | --- | --- | --- |
 | 2024-09-08 | G5 | [2212](https://www.acmicpc.net/problem/2212) | Python | 32,140KB | 40ms | [Referenced](https://velog.io/@jkh9615/알고리즘-백준-11000-강의실-배정-Java-wskzqzk6) |
 | 2024-09-08 | G5 | [16987](https://www.acmicpc.net/problem/16987) | Python | 31,252KB | 3,268ms | [Referenced](https://velog.io/@yoonuk/백준-16987-계란으로-계란치기-Java자바) |
 | 2024-09-22 | G5 | [14891](https://www.acmicpc.net/problem/14891) | Python | 31,120KB | 40ms | [Referenced](https://velog.io/@khc41/백준-14891번-톱니바퀴-C-삼성-기출-amdofa1x) |
+| 2024-09-22 | G5 | [22251](https://www.acmicpc.net/problem/22251) | Python | 31,120KB | 4,216ms | [Referenced](https://moonsbeen.tistory.com/324) |
