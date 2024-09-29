@@ -166,3 +166,4 @@
 | 2024-09-22 | G5 | [14891](https://www.acmicpc.net/problem/14891) | Python | 31,120KB | 40ms | [Referenced](https://velog.io/@khc41/백준-14891번-톱니바퀴-C-삼성-기출-amdofa1x) |
 | 2024-09-22 | G5 | [22251](https://www.acmicpc.net/problem/22251) | Python | 31,120KB | 4,216ms | [Referenced](https://moonsbeen.tistory.com/324) |
 | 2024-09-30 | G5 | [14719](https://www.acmicpc.net/problem/14719) | Python | 31,120KB | 84ms | [Referenced](https://moonsbeen.tistory.com/247) |
+| 2024-09-30 | G4 | [4781](https://www.acmicpc.net/problem/4781) | Python | 110,684KB | 2,080ms | [Referenced](https://nahwasa.com/entry/백준-4781-자바-사탕-가게-BOJ-4781-JAVA)|
