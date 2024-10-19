@@ -168,3 +168,8 @@
 | 2024-09-30 | G5 | [14719](https://www.acmicpc.net/problem/14719) | Python | 31,120KB | 84ms | [Referenced](https://moonsbeen.tistory.com/247) |
 | 2024-09-30 | G4 | [4781](https://www.acmicpc.net/problem/4781) | Python | 110,684KB | 2,080ms | [Referenced](https://nahwasa.com/entry/백준-4781-자바-사탕-가게-BOJ-4781-JAVA)|
 | 2024-09-30 | G2 | [3109](https://www.acmicpc.net/problem/3109) | Python | 69,932KB | 1532ms | [Referenced](https://wiselog.tistory.com/140)|
+
+## 2024 October
+| Date | Difficulty | Problem # | Language | Memory | Time | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024-10-19 | G5 | [13549](https://www.acmicpc.net/problem/13549) | Python | 37,720KB | 188ms | [Referenced](https://velog.io/@silver_star/백준-13549-숨바꼭질-3-다익스트라-BFS)|
