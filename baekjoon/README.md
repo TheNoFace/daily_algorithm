@@ -173,3 +173,4 @@
 | Date | Difficulty | Problem # | Language | Memory | Time | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024-10-19 | G5 | [13549](https://www.acmicpc.net/problem/13549) | Python | 37,720KB | 188ms | [Referenced](https://velog.io/@silver_star/백준-13549-숨바꼭질-3-다익스트라-BFS)|
+| 2024-10-20 | G4 | [2138](https://www.acmicpc.net/problem/2138) | Python | 33,468KB | 96ms | [Referenced](https://staticvoidlife.tistory.com/143)|
