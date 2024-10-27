@@ -176,3 +176,4 @@
 | 2024-10-20 | G4 | [2138](https://www.acmicpc.net/problem/2138) | Python | 33,468KB | 96ms | [Referenced](https://staticvoidlife.tistory.com/143)|
 | 2024-10-20 | G5 | [15989](https://www.acmicpc.net/problem/15989) | Python | 31,120KB | 36ms | [Referenced](https://velog.io/@dhelee/백준-15989번-123-더하기-4-Python-다이나믹-프로그래밍DP)|
 | 2024-10-26 | G4 | [16234](https://www.acmicpc.net/problem/16234) | Python | 34,116KB | 7,760ms | |
+| 2024-10-27 | G4 | [17144](https://www.acmicpc.net/problem/17144) | Python | 166,932KB | 1,112ms | [Referenced](https://velog.io/@seungjae/백준-17144번-미세먼지-안녕-삼성-SW역량테스트-Python) |
