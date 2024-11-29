@@ -182,3 +182,4 @@
 | Date | Difficulty | Problem # | Language | Memory | Time | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024-11-28 | S1 | [1931](https://www.acmicpc.net/problem/1931) | Python | 59,852KB | 252ms | |
+| 2024-11-29 | S2 | [19621](https://www.acmicpc.net/problem/19621) | Python | 36,204KB | 92ms | [Referenced](https://tw0226.tistory.com/48) |
