@@ -189,3 +189,4 @@
 | Date | Difficulty | Problem # | Language | Memory | Time | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-03-11 | S1 | [2615](https://www.acmicpc.net/problem/2615) | Python | 32,412KB | 40ms | |
+| 2025-03-12 | S2 | [10997](https://www.acmicpc.net/problem/10997) | Python | 32,540KB | 72ms | |
