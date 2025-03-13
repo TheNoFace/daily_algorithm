@@ -191,3 +191,4 @@
 | 2025-03-11 | S1 | [2615](https://www.acmicpc.net/problem/2615) | Python | 32,412KB | 40ms | |
 | 2025-03-12 | S2 | [10997](https://www.acmicpc.net/problem/10997) | Python | 32,540KB | 72ms | |
 | 2025-03-12 | B3 | [2525](https://www.acmicpc.net/problem/2525) | Java | 14,492KB	| 112ms | |
+| 2025-03-13 | S3 | [17952](https://www.acmicpc.net/problem/17952) | Python | 89,728KB | 1140ms | |
