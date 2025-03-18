@@ -194,3 +194,4 @@
 | 2025-03-13 | S3 | [17952](https://www.acmicpc.net/problem/17952) | Python | 89,728KB | 1140ms | |
 | 2025-03-13 | S3 | [17952](https://www.acmicpc.net/problem/17952) | Java | 264,644KB | 712ms | |
 | 2025-03-14 | G5 | [5972](https://www.acmicpc.net/problem/5972) | Python | 54,376KB | 260ms | Array -> Heap |
+| 2025-03-14 | G5 | [5972](https://www.acmicpc.net/problem/5972) | Java | 40,440KB | 396ms | |
