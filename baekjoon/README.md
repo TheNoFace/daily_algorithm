@@ -196,4 +196,5 @@
 | 2025-03-14 | G5 | [5972](https://www.acmicpc.net/problem/5972) | Python | 54,376KB | 260ms | Array -> Heap |
 | 2025-03-18 | G5 | [5972](https://www.acmicpc.net/problem/5972) | Java | 40,440KB | 396ms | |
 | 2025-03-18 | S2 | [11724](https://www.acmicpc.net/problem/11724) | Java | 141,984KB | 572ms | |
-| 2025-03-20 | S2 | [2003](https://www.acmicpc.net/problem/2003) | Java | 15,236KB | 140ms | [Referenced](https://void2017.tistory.com/333) |
+| 2025-03-20 | S4 | [2003](https://www.acmicpc.net/problem/2003) | Java | 15,236KB | 140ms | [Referenced](https://void2017.tistory.com/333) |
+| 2025-03-20 | S3 | [21921](https://www.acmicpc.net/problem/21921) | Java | 35,196KB | 316ms | |
