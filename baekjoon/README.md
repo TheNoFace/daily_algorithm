@@ -204,3 +204,4 @@
 | 2025-03-21 | S1 | [1189](https://www.acmicpc.net/problem/1189) | Java | 15,148KB | 128ms | |
 | 2025-03-21 | S3 | [14494](https://www.acmicpc.net/problem/14494) | Java | 441,604KB | 952ms | [메모이제이션](S3/P14494_memo.java) |
 | 2025-03-21 | S3 | [14494](https://www.acmicpc.net/problem/14494) | Java | 22,072KB | 128ms | [DP](S3/P14494_dp.java) |
+| 2025-03-21 | S2 | [11053](https://www.acmicpc.net/problem/11053) | Java | 14,440KB | 128ms | [Referenced](https://wikidocs.net/263303) |

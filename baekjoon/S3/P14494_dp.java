@@ -28,10 +28,6 @@ public class P14494_dp {
             }
         }
 
-        for (int i = 0; i < n + 1; i++) {
-            System.out.println(Arrays.toString(dp[i]));
-        }
-
         System.out.println(dp[n][m]);
     }
 }
