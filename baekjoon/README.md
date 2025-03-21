@@ -202,3 +202,5 @@
 | 2025-03-20 | S3 | [12847](https://www.acmicpc.net/problem/12847) | Java | 25,000KB | 256ms | |
 | 2025-03-20 | S2 | [12891](https://www.acmicpc.net/problem/12891) | Java | 21,972KB | 268ms | |
 | 2025-03-21 | S1 | [1189](https://www.acmicpc.net/problem/1189) | Java | 15,148KB | 128ms | |
+| 2025-03-21 | S3 | [14494](https://www.acmicpc.net/problem/14494) | Java | 441,604KB | 952ms | [메모이제이션](S3/P14494_memo.java) |
+| 2025-03-21 | S3 | [14494](https://www.acmicpc.net/problem/14494) | Java | 22,072KB | 128ms | [DP](S3/P14494_dp.java) |
