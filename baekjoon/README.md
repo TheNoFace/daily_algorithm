@@ -201,3 +201,4 @@
 | 2025-03-20 | S2 | [30804](https://www.acmicpc.net/problem/30804) | Java | 38,252KB | 428ms | [Referenced](https://velog.io/@ewoo97/BOJ-백준-30804번-과일-탕후루-JAVA) |
 | 2025-03-20 | S3 | [12847](https://www.acmicpc.net/problem/12847) | Java | 25,000KB | 256ms | |
 | 2025-03-20 | S2 | [12891](https://www.acmicpc.net/problem/12891) | Java | 21,972KB | 268ms | |
+| 2025-03-21 | S1 | [1189](https://www.acmicpc.net/problem/1189) | Java | 15,148KB | 128ms | |
