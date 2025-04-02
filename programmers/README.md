@@ -8,3 +8,6 @@
 | 2025-03-26 | L3 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | Java | 100 | |
 | 2025-03-26 | L3 | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | Java | 100 | [Referenced](https://small-stap.tistory.com/65) |
 | 2025-03-26 | L3 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | Java | 100 | |
+
+## 2025 April
+| 2025-04-02 | L1 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | Java | 100 | |
