@@ -17,4 +17,5 @@
 ## 2025 October
 | Date | Difficulty | Problem | Language | Score | Status |
 | --- | --- | --- | --- | --- | --- |
-| 2025-10-29 | L1 | [[PCCP 기출문제] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) | Java | 100 | |
+| 2025-10-29 | L1 | [[PCCP 기출문제] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) | Python | 100 | |
+| 2025-10-31 | L1 | [[PCCP 기출문제] 1번 / 붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137) | Python | 100 | |
